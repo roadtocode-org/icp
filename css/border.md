@@ -37,3 +37,4 @@ p.mix {border-style: dotted dashed solid double;}
 ```
 ### Outcome :
 
+![Screenshot (209)](https://user-images.githubusercontent.com/90567283/149627362-09697d7a-47da-446f-9cb0-19f8378705c0.png)
